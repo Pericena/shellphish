@@ -23,6 +23,26 @@ cd shellphish
 bash shellphish.sh
 ```
 
+### Windows
+```
+- download git for windows
+https://git-scm.com/downloads
+- download php 
+https://www.php.net/downloads.php
+- download serveo 
+http://serveo.net/
+- download ngrok 
+https://ngrok.com/
+https://dashboard.ngrok.com/get-started/setup
+token 
+./ngrok authtoken xxxxxxxxxxxxxxxxxxxxxxxxxxx
+- path copy & paste los archivos de /php/ngrok/serveo en el system32
+git clone https://github.com/thelinuxchoice/shellphish
+cd shellphish
+bash shellphish.sh
+```
+
+
 ### Donate!
 Support the authors:
 ### Paypal:
